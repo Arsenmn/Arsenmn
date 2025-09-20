@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there, I'm Arsen 👋
+
+I"m a self-taught Frontend developer looking for real commercial experience and internships.
+
+### 🔧 Tech Stack
+- React (and it's ecosystem), Next.js, Zustand, TailwindCSS
+- JavaScript, TypeScript
 
 <!--
 **Arsenmn/Arsenmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
