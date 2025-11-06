@@ -3,7 +3,7 @@
 I"m a self-taught Frontend developer looking for real commercial experience and internships.
 
 ### 🔧 Tech Stack
-- React (and it's ecosystem), Next.js, Redux Toolkit, TailwindCSS
+- React (and it's ecosystem), NextJs, Redux Toolkit, TailwindCSS
 - JavaScript, TypeScript
 
 <!--
