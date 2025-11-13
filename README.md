@@ -40,4 +40,4 @@ s
 
 ---
 
-> _"The goal is progress, not perfection."_ 🚀
+"It's better to burn, than to fade away"
