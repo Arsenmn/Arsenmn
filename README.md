@@ -2,7 +2,7 @@
 
 **`Frontend Developer (React, TypeScript, Next.js)`**
 
-I'm a **self-taught frontend developer** passionate about crafting modern, responsive, and user-focused web applications.  
+I'm a **self-taught fullstack developer** passionate about crafting modern, responsive, and user-focused web applications.  
 Currently, I’m looking for **real-world experience** through internships and junior developer roles.
 
 ---
@@ -23,6 +23,11 @@ Currently, I’m looking for **real-world experience** through internships and j
   <img alt="Figma" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img alt="Axios" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
   <img alt="VSCode" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
 ---
@@ -31,6 +36,7 @@ Currently, I’m looking for **real-world experience** through internships and j
 - Building production-ready apps with **Next.js** and **TypeScript**  
 - Improving skills in **state management (Redux Toolkit)** and **API integration**  
 - Exploring UI motion design with **Framer Motion**
+- Creating solid backend with **NesJS** and **MERN stack**
 s
 ---
 
